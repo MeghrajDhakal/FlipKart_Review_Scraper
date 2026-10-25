@@ -1,4 +1,4 @@
-# Flipkart Review API
+# Flipkart Review Scraper
 
 A Python REST API and CLI tool that scrapes Flipkart product reviews, ratings, and metadata using Scrapy. Supports single-page, multi-page, and full review extraction. Returns structured JSON with review scores, text, reviewer info, and star distribution. Auto-bootstraps on Windows, macOS, and Linux — just run `python run.py`.
 
