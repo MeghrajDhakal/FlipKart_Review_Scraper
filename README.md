@@ -8,7 +8,6 @@
 [![Flask](https://img.shields.io/badge/Flask-3.0%2B-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Scrapy](https://img.shields.io/badge/Scrapy-2.11%2B-60A839?logo=scrapy&logoColor=white)](https://scrapy.org/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](#-docker)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
